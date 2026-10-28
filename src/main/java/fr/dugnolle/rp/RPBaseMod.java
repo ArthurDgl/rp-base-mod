@@ -21,6 +21,7 @@ public class RPBaseMod implements ModInitializer {
 
 		Matraque.initialize();
 		Sceptre.initialize();
+		JudgeHammer.initialize();
 
 		LOGGER.info("RP Base Mod initialized");
 	}
