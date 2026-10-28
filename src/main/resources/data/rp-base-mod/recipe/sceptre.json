@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "o",
+    "A"
+  ],
+  "key": {
+    "#": "minecraft:golden_dandelion",
+    "o": "minecraft:diamond",
+    "A": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "rp-base-mod:sceptre"
+  }
+}
