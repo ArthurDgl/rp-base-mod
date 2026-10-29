@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "G#G",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:blackstone",
+    "G": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "rp-base-mod:judge_hammer"
+  }
+}
